@@ -45,10 +45,3 @@ sections:
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
 
-- name: OFI
-  icon: fas fa-rocket
-  items:
-  -  title: APOD
-      type: apod
-  -   type: apod
-  
