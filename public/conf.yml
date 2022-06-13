@@ -7,7 +7,7 @@ pageInfo:
       target: newtab
   footerText: pacocaapps 2022
 appConfig:
-  theme: colorful
+  theme: matrix-red
   layout: auto
   iconSize: medium
   language: pt
@@ -90,5 +90,11 @@ sections:
         id: 0_404_sss
   - widgets:
       - type: apod
+        id: 0_727_apod
       - type: public-ip
+        id: 1_727_publicip
+      - type: system-info
+      - options:
+          url: https://fiatleak.com/
+        type: iframe
     name: Widgets
